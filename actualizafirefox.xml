@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD plugin 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/plugin-install.dtd">
+<install version="1.5" type="plugin" group="system" method="upgrade">
+	<name>Actualiza Firefox</name>
+	<creationDate>2012-05-01</creationDate>
+	<author>Juan Darien Macías Hernández</author>
+	<authorEmail>jdmacias@estudiantes.uci.cu</authorEmail>
+	<authorUrl>http://firefoxmania.uci.cu</authorUrl>
+	<copyright>FirefoxMania.uci.cu</copyright>
+	<license>GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html</license>
+	<version>0.2</version>
+	<releaseDate>2012-05-07</releaseDate>
+	<releaseType>Release</releaseType>
+	<downloadUrl>http://firefoxmania.uci.cu</downloadUrl>
+	<description>Alerta a los usuarios que están usando una versión desactualizada de Firefox y más.</description>
+	<files>
+		<filename plugin="actualizafirefox">actualizafirefox.php</filename>
+		<folder>actualizafirefox</folder>
+	</files>
+</install>
+
